@@ -1,0 +1,9 @@
+PASS   v1.2.3
+PASS   v0.1.0
+PASS   v2.0.0-alpha.1
+FAIL   v1.2: missing patch version
+FAIL   1.2.3: missing 'v' prefix
+FAIL   v01.2.3: leading zero in the major version
+FAIL   release-2: does not follow vMAJOR.MINOR.PATCH
+FAIL   v1.2.3: duplicate tag
+8 checked, 3 passed, 5 failed

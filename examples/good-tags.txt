@@ -1,0 +1,6 @@
+# Good tags only — every one follows vMAJOR.MINOR.PATCH.
+v1.2.3
+v0.1.0
+v10.20.30
+v2.0.0-alpha.1
+v1.0.0+build.1
