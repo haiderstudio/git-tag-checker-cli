@@ -1,0 +1,9 @@
+# Sample git tags — some pass, some fail on purpose.
+v1.2.3
+v0.1.0
+v2.0.0-alpha.1
+v1.2
+1.2.3
+v01.2.3
+release-2
+v1.2.3
